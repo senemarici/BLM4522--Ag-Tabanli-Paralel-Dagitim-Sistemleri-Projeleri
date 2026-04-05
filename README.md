@@ -1,0 +1,1 @@
+# BLM4522--A-Tabanl-Paralel-Da-t-m-Sistemleri-Projeleri
