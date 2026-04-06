@@ -1,0 +1,1 @@
+SELECT TC_Kimlik, Maas FROM Personeller;

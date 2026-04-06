@@ -1,0 +1,1 @@
+UPDATE Personeller SET Maas = 90000 WHERE Ad_Soyad = 'Ahmet Yýlmaz';
