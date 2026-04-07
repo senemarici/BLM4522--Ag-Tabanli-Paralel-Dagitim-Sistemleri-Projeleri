@@ -1,0 +1,1 @@
+sqlcmd -S (localdb)\mssqllocaldb -i "C:\Users\senem\Desktop\BLM4522\BLM4522_Proje2\Sorgular\02_Yedekleme_Scripti.sql"
